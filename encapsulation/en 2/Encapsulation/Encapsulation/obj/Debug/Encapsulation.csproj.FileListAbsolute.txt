@@ -1,0 +1,6 @@
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

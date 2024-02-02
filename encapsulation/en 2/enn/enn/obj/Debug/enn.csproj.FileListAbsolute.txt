@@ -1,0 +1,7 @@
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\bin\Debug\enn.exe.config
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\bin\Debug\enn.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\bin\Debug\enn.pdb
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\obj\Debug\enn.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\obj\Debug\enn.pdb
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\obj\Debug\enn.csproj.AssemblyReference.cache
+C:\semester 2\pemprograman\cobaaa\encapsulation\en 2\enn\enn\obj\Debug\enn.csproj.CoreCompileInputs.cache

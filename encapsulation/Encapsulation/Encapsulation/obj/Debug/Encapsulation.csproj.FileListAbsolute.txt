@@ -1,0 +1,7 @@
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\semester 2\pemprograman\cobaaa\encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
